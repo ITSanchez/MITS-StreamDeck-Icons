@@ -125,24 +125,6 @@ macOS/
 General/
 ```
 
-### 🚀 Generar el paquete
-
-```bash
-python3 scripts/build_icons.py
-```
-
-Generar el ZIP de distribución:
-
-```bash
-python3 scripts/build_icons.py --zip
-```
-
-### 🤝 Colaboraciones
-
-¡Las contribuciones son bienvenidas!
-
-Antes de enviar nuevos iconos, revisá la documentación y respetá el Design System del proyecto para mantener una apariencia consistente.
-
 ### 📄 Licencia
 
 Distribuido bajo la **MIT License**.

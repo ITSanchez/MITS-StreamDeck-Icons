@@ -56,31 +56,6 @@ macOS/
 General/
 ```
 
-### 🚀 Build
-
-```bash
-python3 scripts/build_icons.py
-```
-
-Generate the release package:
-
-```bash
-python3 scripts/build_icons.py --zip
-```
-
-### 🤝 Contributing
-
-Contributions are welcome!
-
-Please read the documentation before submitting new icons.
-
-All icons must follow the Design System included in this repository.
-
-### 📄 License
-
-Released under the **MIT License**.
-
----
 
 ## ⚠️ Disclaimer
 
